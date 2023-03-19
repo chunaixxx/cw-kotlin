@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="hello_blank_fragment">333</string>
+    <string name="add_todo_text">Добавить задачу</string>
+    <string name="delete_completed_todos">Удалить выполненные задачи</string>
+    <string name="delete_icon">Кнопка удаления</string>
+    <string name="add_note_button">Добавить заметку</string>
+    <string name="notes_title">Заголовок заметки</string>
+    <string name="no_todo_image">Отсутствует картинка задач</string>
+    <string name="no_trash_image">Отсутствует картинка корзины</string>
+    <string name="no_note_image">Отсутствует картинка заметок</string>
+    <string name="no_notes_text">Заметки отсутствуют</string>
+    <string name="nothing_to_show">Корзина пуста</string>
+    <string name="no_todos">Задачи отсутствуют</string>
+    <string name="item_empty_trash">Пустая корзина</string>
+    <string name="horizontal_view">Горизонтальный вид</string>
+    <string name="verical_view">Вертикальный вид</string>
+    <string name="layout_view">Вид отображения</string>
+    <string name="change_color">Изменить цвет</string>
+</resources>
